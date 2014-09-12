@@ -10,3 +10,5 @@ The goal of this project is:
 4. Visualize the collected data
 
 As a part of the project, Developed a simple application that emulate DRS and DPM function, and large-scale statistics gathering and analysis in scalable virtualized environments. Specific areas of interest include health models for multi-tier applications, VM and host performance, and detection of anomalies.
+
+Technology Stack: VMWare ESXI, Java, Mongo DB, Logstash, phpAdmin
